@@ -1,9 +1,9 @@
 [
   {
-    "remote": "github",
-    "repository": "hellsgod/hells-Core-N6",
+    "remote": "cm",
+    "repository": "android_kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
-    "revision": "lollipop-mr1-rebase"
+    "revision": "cm-12.1"
   },
   {
     "remote": "tm",
