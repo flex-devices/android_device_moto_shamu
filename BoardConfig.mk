@@ -23,7 +23,6 @@ TARGET_CPU_VARIANT := krait
 TARGET_NO_BOOTLOADER := true
 
 # Inline kernel building
-TARGET_GCC_VERSION_ARM := uber-4.9
 TARGET_KERNEL_CONFIG := hells_defconfig
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb

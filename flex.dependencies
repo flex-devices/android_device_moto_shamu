@@ -1,9 +1,9 @@
 [
   {
-    "remote": "flex-devices",
-    "repository": "android_kernel_moto_shamu",
+    "remote": "github",
+    "repository": "hellsgod/hells-Core-N6",
     "target_path": "kernel/moto/shamu",
-    "revision": "lp5.1"
+    "revision": "lollipop-mr1-rebase"
   },
   {
     "remote": "tm",
